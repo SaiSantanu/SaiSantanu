@@ -1,7 +1,18 @@
-# 💫 Hi 👋, I'm Sai Santanu
-**A Full-Stack Developer | Data Analyst | Skilled in Java, Python, SQL, and Web Technologies
+<p align="center">
+  <img src="https://iili.io/fpa5Rcl.jpg" alt="Banner" width="100%" />
+</p>
 
-Email Me 👉 ✉️ **https://saisantanu.vercel.app/** For Collaboration/Project or Anything Else. 😊😊
+# 💫 Hi 👋, I'm Sai Santanu
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Full+Stacck+Developer;Frontend+Developer;Data+Analtst" alt="Typing Roles Animation" />
+</p>
+
+**Skilled in Java, Python, SQL, and Web Technologies
+
+
+
+Find Me 👉 ✉️ **https://saisantanu.vercel.app/** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Skin Cancer 
 Detection and Classification 
