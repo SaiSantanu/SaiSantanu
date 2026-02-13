@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://iili.io/fpa5Rcl.jpg" alt="Banner" width="100%" />
+  <img src="https://iili.io/qHBZkgt.jpg" alt="Banner" width="100%" />
 </p>
 
 # 💫 Hi 👋, I'm Sai Santanu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Full+Stacck+Developer;Frontend+Developer;Data+Analtst" alt="Typing Roles Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Frontend+Developer;Data+Analtst" alt="Typing Roles Animation" />
 </p>
 
 **Skilled in Java, Python, SQL, and Web Technologies
